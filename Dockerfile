@@ -1,5 +1,5 @@
 # Use Python 2.7 Slim
-FROM python:2.7-slim
+FROM python:3.13.0a2-slim
 
 # Update Repos
 RUN apt-get update \
